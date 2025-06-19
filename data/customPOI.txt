@@ -1,0 +1,35 @@
+tags = {
+    'amenity': [
+        'school', 'childcare', 'child_care', 'kindergarten', 'university', 'college',
+        'clinic', 'dentist', 'doctors', 'hospital', 'pharmacy', 'nursing_home', 
+        'social_facility', 'veterinary', 'social_centre', 'community_centre',
+        'fountain', 'public_bookcase', 'library', 'townhall', 'cafe', 'restaurant',
+        'fast_food', 'food_court', 'pub', 'ice_cream', 'baking_oven', 'biergarten',
+        'bar', 'casino', 'nightclub', 'cinema', 'theatre', 'events_venue', 
+        'arts_centre', 'fitness_centre', 'fitness_station', 'garden', 'park', 
+        'playground', 'sports_centre', 'swimming_pool', 'gym', 'bicycle_rental', 
+        'bus_station', 'car_sharing', 'bank', 'marketplace', 'place_of_worship'
+    ],
+    'leisure': [
+        'amusement_arcade', 'dance', 'dog_park', 'fitness_centre', 'fitness_station',
+        'garden', 'park', 'pitch', 'playground', 'sports_centre', 'swimming_area',
+        'swimming_pool', 'track'
+    ],
+    'public_transport': [
+        'stop_position', 'platform', 'station'
+    ],
+    'railway': [
+        'subway_entrance', 'tram_stop'
+    ],
+    'landuse': [
+        'allotments'
+    ],
+    'office': [
+        'coworking'
+    ],
+    'shop': [
+        'bakery', 'butcher', 'cheese', 'convenience', 'deli', 'dairy', 'farm',
+        'frozen_food', 'greengrocer', 'health_food', 'ice_cream', 'pasta', 
+        'seafood', 'spices', 'supermarket', 'wholesale'
+    ]
+}
